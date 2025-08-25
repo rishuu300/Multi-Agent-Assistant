@@ -53,6 +53,10 @@ class GraphBuilder:
         self.graph_builder.add_edge('tools', 'chatbot')
         self.graph_builder.add_edge('chatbot', END)
     
+    
+    def ai_news_builder_graph(self):
+        
+    
     def setup_graph(self, usecase:str):
         """Set up graph for the selected usecase."""
         
