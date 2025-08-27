@@ -1,0 +1,14 @@
+# Daily AI News Summary
+
+### 2025-08-27
+# - [Ad Age’s emerging‑tech roundup spotlights the rise of AI‑driven ad networks and spec ads](https://adage.com/technology/ai/aa-emerging-tech-news-for-brands-and-agencies-aug-27-2025/) – The weekly briefing notes a surge in AI‑generated advertising, including new platforms built on ChatGPT‑style models.  
+# - [LinkedIn reports AI tool usage jumps to 80% among UAE professionals](https://www.zawya.com/en/press-release/research-and-studies/linkedin-use-of-ai-soars-among-uae-workforce-azsaj2xw) – Adoption of AI assistants rose from 56% to 80% in a year, making the UAE the second‑highest global adopter after India.  
+# - [Bell’s AI photo booth at Fan Expo Canada faces backlash from artists](https://www.startupecosystem.ca/news/controversy-surrounds-bells-ai-photo-booth-at-fan-expo-canada/) – Attendees criticized the booth for using AI‑generated imagery, sparking a debate over artistic authenticity.  
+# - [Anthropic launches Claude AI agent for Chrome via a browser extension](https://www.startupecosystem.ca/news/anthropic-launches-claude-ai-agent-for-chrome/) – The new extension brings Claude’s conversational capabilities directly into the browser, raising safety concerns about prompt‑injection attacks.  
+# - [Assort Health raises $50 M Series B to automate patient communication with AI voice agents](https://www.startupecosystem.ca/news/assort-health-secures-50m-to-automate-patient-communication/) – The funding will expand AI‑driven scheduling, FAQs and triage for specialty healthcare practices.  
+# - [Anthropic settles major copyright lawsuit with U.S. authors over training data](https://www.startupecosystem.ca/news/anthropic-settles-major-ai-copyright-lawsuit-with-authors/) – The settlement ends a class‑action claim that Anthropic used copyrighted works to train its models.  
+# - [TCS creates new AI & Services Transformation unit, appoints Amit Kapur as global head](https://www.indiatvnews.com/technology/news/amid-layoffs-tcs-forms-new-ai-and-services-transformation-unit-appoints-new-head-for-uk-ireland-2025-08-27-1005341) – Amid a 12,000‑job layoff, TCS launches the unit to accelerate AI deployment and market expansion.  
+# - [TechCrunch Disrupt 2025 announces lineup of AI‑focused leaders and VC firms](https://www.startupecosystem.ca/news/techcrunch-disrupt-2025-features-top-tech-and-vc-leaders/) – The event will feature AI‑centric sessions with Netflix, ElevenLabs, Sequoia Capital and others.  
+
+### 2025-08-26
+# - [Mitti Labs uses AI to measure methane from rice paddies and train farmers in climate‑friendly practices](https://techcrunch.com/2025/08/26/how-one-ai-startup-is-helping-rice-farmers-battle-climate-change/) – The New York startup leverages satellite imagery and AI models to quantify emissions and guide Indian farmers toward lower‑methane techniques.  
