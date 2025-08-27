@@ -1,4 +1,3 @@
-
 ---
 title: Multi Agent Assistant
 emoji: 🚀
@@ -7,7 +6,7 @@ colorTo: red
 sdk: streamlit
 app_port: 8501
 tags:
-- streamlit
+  - streamlit
 pinned: false
 short_description: Multi AI Agent
 license: apache-2.0
